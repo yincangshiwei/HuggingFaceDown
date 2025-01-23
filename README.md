@@ -19,6 +19,9 @@
 
 > 提供帮助说明
 
+![image](https://github.com/user-attachments/assets/2873ed46-a32f-4f04-9574-2f62fb647513)
+
+
 ## 使用说明
 
 > 运行文件：dist/HuggingFaceDownApp/HuggingFaceDownApp.exe
