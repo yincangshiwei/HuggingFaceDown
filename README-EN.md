@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/yincangshiwei/HuggingFaceDown.git/releases">Download</a>
   ·
-  <a href="https://github.com/yincangshiwei/HuggingFaceDown.git/blob/master/README.md">中文文档</a>
+  <a href="[https://github.com/yincangshiwei/HuggingFaceDown.git/blob/master/README.md](https://github.com/yincangshiwei/HuggingFaceDown/blob/master/README.md)">中文文档</a>
   ·
-  <a href="https://github.com/yincangshiwei/HuggingFaceDown.git/blob/master/README-EN.md">English Documents</a>
+  <a href="[https://github.com/yincangshiwei/HuggingFaceDown.git/blob/master/README-EN.md](https://github.com/yincangshiwei/HuggingFaceDown/blob/master/README-EN.md)">English Documents</a>
 </p>
 
 - - -
@@ -18,6 +18,9 @@
 > Supports downloading model directories, as well as specified file downloads
 
 > Provides help documentation
+
+![image](https://github.com/user-attachments/assets/f926b45a-8e7e-4e3a-b5a7-c17519e5925f)
+
 
 ## Usage Instructions
 
