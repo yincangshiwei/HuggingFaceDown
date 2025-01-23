@@ -24,8 +24,7 @@
 <img src="https://github.com/user-attachments/assets/2873ed46-a32f-4f04-9574-2f62fb647513" width="300" height="300">
 
 Repo ID:
-<img src="https://github.com/user-attachments/assets/2873ed46-a32f-4f04-9574-2f62fb647513" width="300">
-
+<img src="https://github.com/user-attachments/assets/2db43fa2-8dc0-4b53-99ae-16d6002008f0" width="300">
 
 ## 使用说明
 
