@@ -6,7 +6,7 @@
   <a href="https://github.com/yincangshiwei/HuggingFaceDown.git/blob/master/README-EN.md">English Documents</a>
 </p>
 
-- - -
+- - - 
 ## 项目介绍
 
 > 该项目主要是作用在方便下载Hugging Face网站的模型，纯个人喜好开发的一个小程序项目，之前一直使用脚本来运行，后来就用AI帮我做出这个可视化小程序，期间一直跟AI做程序调试和调教。
