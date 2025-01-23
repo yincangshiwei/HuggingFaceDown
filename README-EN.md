@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/yincangshiwei/HuggingFaceDown.git/releases">Download</a>
   ·
-  <a href="[https://github.com/yincangshiwei/HuggingFaceDown.git/blob/master/README.md](https://github.com/yincangshiwei/HuggingFaceDown/blob/master/README.md)">中文文档</a>
+  <a href="https://github.com/yincangshiwei/HuggingFaceDown.git/blob/master/README.md">中文文档</a>
   ·
-  <a href="[https://github.com/yincangshiwei/HuggingFaceDown.git/blob/master/README-EN.md](https://github.com/yincangshiwei/HuggingFaceDown/blob/master/README-EN.md)">English Documents</a>
+  <a href="https://github.com/yincangshiwei/HuggingFaceDown.git/blob/master/README-EN.md">English Documents</a>
 </p>
 
 - - -
