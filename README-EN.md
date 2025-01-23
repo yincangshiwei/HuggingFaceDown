@@ -17,6 +17,8 @@
 
 > Supports downloading model directories, as well as specified file downloads
 
+> Support the use of proxies (enabled by default)
+
 > Provides help documentation
 
 <img src="https://github.com/user-attachments/assets/f926b45a-8e7e-4e3a-b5a7-c17519e5925f" width="300" height="300">

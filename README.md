@@ -17,6 +17,8 @@
 
 > 支持下载模型目录，支持指定文件下载
 
+> 支持使用代理（默认启用）
+
 > 提供帮助说明
 
 <img src="https://github.com/user-attachments/assets/2873ed46-a32f-4f04-9574-2f62fb647513" width="300" height="300">
