@@ -6,7 +6,7 @@
   <a href="https://github.com/yincangshiwei/HuggingFaceDown.git/blob/master/README-EN.md">English Documents</a>
 </p>
 
-- - - 
+- - -
 ## 项目介绍
 
 > 该项目主要是作用在方便下载Hugging Face网站的模型，纯个人喜好开发的一个小程序项目，之前一直使用脚本来运行，后来就用AI帮我做出这个可视化小程序，期间一直跟AI做程序调试和调教。
@@ -18,6 +18,12 @@
 > 支持下载模型目录，支持指定文件下载
 
 > 提供帮助说明
+
+## 使用说明
+
+> 运行文件：dist/HuggingFaceDownApp/HuggingFaceDownApp.exe
+
+> 如需另行存放目录，需拷贝HuggingFaceDownApp整个目录。
 
 ## 相关技术
 
