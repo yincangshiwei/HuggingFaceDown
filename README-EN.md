@@ -3,9 +3,9 @@ Here's the English version of your text:
 <p align="center">
   <a href="https://github.com/yincangshiwei/HuggingFaceDown.git/releases">Download</a>
   ·
-  <a href="https://github.com/yincangshiwei/HuggingFaceDown.git/blob/main/README.md">Chinese Docs</a>
+  <a href="https://github.com/yincangshiwei/HuggingFaceDown.git/blob/master/README.md">Chinese Docs</a>
   ·
-  <a href="https://github.com/yincangshiwei/HuggingFaceDown.git/blob/main/README-EN.md">English Documents</a>
+  <a href="https://github.com/yincangshiwei/HuggingFaceDown.git/blob/master/README-EN.md">English Documents</a>
 </p>
 
 - - -
