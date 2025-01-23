@@ -50,18 +50,10 @@ HuggingFaceDown/
 ├── setup.py
 ├── requirements.txt
 ├── README.md
-├── help_docs/
-│   ├── en.html
-│   └── zh.html
-├── utils/
-│   ├── download_utils.py
-│   └── language_utils.py
-└── assets/
-    ├── images/
-    │   ├── icon.png
-    │   └── logo.png
-    └── styles/
-        └── style.css
+├── resources/
+│   ├── help_CN.html
+│   └── help_EN.html
+│   └── RepoID_Help.png
 ```
 
 ```
