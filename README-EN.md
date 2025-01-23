@@ -24,9 +24,9 @@
 
 ## Usage Instructions
 
-> Run File: dist/HuggingFaceDownApp/HuggingFaceDownApp.exe
+> Run File: dist/HuggingFaceDownApp.exe
 
-> If you need to store in another directory, copy the entire HuggingFaceDownApp directory.
+> If you need to store in another directory, copy the entire 'dist' directory.
 
 ## Relevant Technologies
 

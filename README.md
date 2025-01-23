@@ -24,9 +24,9 @@
 
 ## 使用说明
 
-> 运行文件：dist/HuggingFaceDownApp/HuggingFaceDownApp.exe
+> 运行文件：dist/HuggingFaceDownApp.exe
 
-> 如需另行存放目录，需拷贝HuggingFaceDownApp整个目录。
+> 如需另行存放目录，需拷贝 'dist' 整个目录。
 
 ## 相关技术
 
